@@ -1,2 +1,2 @@
-Unit2-test-job:
+before-script-template-job:
   script: echo "Unit-test-pipelines"
