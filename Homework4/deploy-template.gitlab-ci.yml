@@ -1,0 +1,3 @@
+deploy-template-job:
+    script: 
+    	- echo "deploy-template"
