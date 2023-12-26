@@ -1,2 +1,0 @@
-before-script-template-job:
-  script: echo $before-script-template.js
