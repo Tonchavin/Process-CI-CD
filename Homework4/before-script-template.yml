@@ -1,2 +1,2 @@
 before-script-template-job:
-  script: echo "Unit-test-pipelines"
+  script: echo $before-script-template.js
