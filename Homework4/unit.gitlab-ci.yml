@@ -1,2 +1,0 @@
-Unit-test-pipelines-job:
-  script: echo "Unit-test-pipelines"
