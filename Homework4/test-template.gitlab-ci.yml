@@ -1,3 +1,0 @@
-test-template-job:
-    script: 
-    	- echo "test-template"
