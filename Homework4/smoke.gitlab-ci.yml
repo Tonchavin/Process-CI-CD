@@ -1,4 +1,0 @@
-smoke-test-job:
-    script: 
-        - echo "Remote Githab Smoke Test"
-
