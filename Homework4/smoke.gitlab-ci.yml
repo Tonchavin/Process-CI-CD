@@ -1,0 +1,4 @@
+smoke-test-job:
+    script: 
+        - echo "Smoke Test"
+
